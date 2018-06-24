@@ -15,7 +15,7 @@ The neighborhood map application is complex enough and incorporates a variety of
 
 ![Screenshot of Map](https://github.com/AhmedMaghawry/Neighborhood-Map/blob/master/Screenshot%20from%202018-02-07%2002-26-24.png)
 
-#Skills for this project
+# Skills for this project
 * HTML
 * CSS
 * JAVA SCRIPT
@@ -24,7 +24,7 @@ The neighborhood map application is complex enough and incorporates a variety of
 * Google Maps API
 * FourSquare API
 
-#How to use 
+# How to use 
 - Download the project or Clone the repo.
 - open `index.html`
 
