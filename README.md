@@ -13,7 +13,7 @@ The neighborhood map application is complex enough and incorporates a variety of
 
 - The App is resposive for several screens (Pc and Mobiles).
 
-![Screenshot of Map](https://drive.google.com/file/d/14ZPoKRIbsY95JaBfssz_sbsDVibo7mS1/view?usp=sharing)
+![Screenshot of Map](https://drive.google.com/open?id=14ZPoKRIbsY95JaBfssz_sbsDVibo7mS1)
 
 #Skills for this project
 * HTML
